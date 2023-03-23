@@ -3587,7 +3587,13 @@ Index
 -----
 * **Only available in the [PDF](https://transactions.sendowl.com/products/78175486/4422834F/view).**
 * **Ctrl+F / ⌘F is usually sufficient.**
-* **Searching `'#<title>'` on the [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
+**Searching `'#<title>'` on the [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
+<<<<<<< HEAD
 one changes
 two changes
 three changes
+=======
+four changes
+five changes
+six changes
+>>>>>>> branch1
